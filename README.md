@@ -41,7 +41,7 @@
 | Repository | Description |
 |------------|-------------|
 | **FACIAL-MATCHING-SYSTEM** | Real-time facial matching and best image selection (Python) |
-| **PROTIFOLIO-T1** | My first GitHub-hosted portfolio (HTML/CSS) |
+| **INTELLOCK** | Pupil Dilation Based Drunk and Drive Prevenation |
 
 *(More projects in my Repositories tab!)*
 
