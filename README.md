@@ -6,6 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hi,+👋+I'm+Gali+Yaswanth+Sai;Data+Analyst+|+AI+|+ML+Enthusiast;Final+Year+CS+Student">
 </p>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ir19stark28&label=👀%20Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
 <hr>
 
 <!-- ----------- TECH STACK SECTION ------------ -->
@@ -46,7 +51,7 @@
 *(More projects in my Repositories tab!)*
 
 
-![Profile views](https://komarev.com/ghpvc/?username=ir19stark28&label=👀%20Profile%20Views&color=blueviolet&style=for-the-badge)
+<!--![Profile views](https://komarev.com/ghpvc/?username=ir19stark28&label=👀%20Profile%20Views&color=blueviolet&style=for-the-badge) -->
 
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
