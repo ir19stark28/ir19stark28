@@ -45,12 +45,16 @@
 
 *(More projects in my Repositories tab!)*
 
+
+![Profile views](https://komarev.com/ghpvc/?username=ir19stark28&label=👀%20Profile%20Views&color=blueviolet&style=for-the-badge)
+
+
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 
 ### 🌐 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/gysai10042141st/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ir23st@outlook.com" target="blank"><img src="https://img.shields.io/badge/outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white"/></a>
+<a href="mailto:gali_yaswanth_sai@outlook.com" target="blank"><img src="https://img.shields.io/badge/outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white"/></a>
 <a href="https://github.com/ir19stark28" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
